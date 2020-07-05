@@ -1,0 +1,18 @@
+{
+    "name": "lika1995/session",
+    "description": "exam session",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lika Yan",
+            "email": "likusya865@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lika\\Session\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
